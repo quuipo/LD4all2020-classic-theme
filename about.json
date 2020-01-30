@@ -1,5 +1,5 @@
 {
-  "name": "LD4all Classic",
+  "name": "LD4all Classic Test",
   "component": false,
   "license_url": null,
   "about_url": null,
@@ -24,11 +24,8 @@
       "danger": "f89982",
       "success": "9ddb9d",
       "love": "ef869f",
-      "primary-low": "c1c6d0",
-      "primary-medium": "00ff00",
-      "primary-high": "0000ff",
-      "primary-low-mid": "ffff00"
-    }
+      "primary-low": "000000",
+       }
   },
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
 }
