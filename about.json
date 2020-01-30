@@ -12,19 +12,8 @@
     "bgtop": "assets/bgtop.jpg"
   },
   "color_schemes": {
-    "Classic LD4all_3": {
-      "primary": "30495f",
-      "secondary": "e4ecee",
-      "tertiary": "a23276",
-      "quaternary": "0c1078",
-      "header_background": "030735",
-      "header_primary": "e4ecee",
-      "highlight": "f4c717",
-      "danger": "f89982",
-      "success": "9ddb9d",
-      "love": "ef869f"
-    },
-    "Classic LD4all": {
+
+    "Classic LD4all Remote": {
       "primary": "222222",
       "secondary": "e4ecee",
       "tertiary": "a23276",
@@ -34,7 +23,8 @@
       "highlight": "f4c717",
       "danger": "f89982",
       "success": "9ddb9d",
-      "love": "ef869f"
+      "love": "ef869f",
+      "primary-low": "c1c6d0"
     }
   },
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
