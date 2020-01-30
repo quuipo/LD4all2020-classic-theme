@@ -1,0 +1,57 @@
+/* ===== BB CODE STYLING [light themes] ====== */
+
+/* Edit/ot class styles */
+div.edit span {font-style: italic;}
+div.edit p {margin-left: 5%;}
+div.ot span {font-style: italic;}
+div.ot p {margin-left: 5%;}
+
+/* custom bbcode tag styles */
+.mod {color:#A41B5D; font-style: italic;}
+.nd  { color: #394D73;}
+.hi  { color: #6B368A;}
+.fa { color: #794E61; }
+.ld  { color: #1652B5;}
+.fld { color:#A94F55;}
+.com2 { color:#885864; font-style: italic; } 
+.djtitle { font-size: 19px;font-weight: bold; color:#0A3457; }
+.com { color:#37A39D; font-style: italic; }
+
+/* ======== end BB code styling ======== */
+
+$primary-low: #cbdadf !important;
+
+/* bg img */
+
+/* header aanpassen */
+
+.d-header
+{ 
+margin-bottom: 15px;
+background-image: url($bgheader);
+repeat:x;
+}
+
+.composer-popup
+
+{
+    background: #002028;
+}
+
+/* category images sizing */
+.category-logo.aspect-image {
+    //max-height: 50px;
+    //max-height: var(--max-height);
+    //max-width: 60%;
+    //height: auto;
+    //width: calc(var(--max-height) * var(--aspect-ratio));
+
+      width: 81px;
+    height: 100px;
+  
+    float: left;
+    
+    margin: 0 1em 0.5em 0; 
+    
+    
+}

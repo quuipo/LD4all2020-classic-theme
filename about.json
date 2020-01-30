@@ -1,0 +1,41 @@
+{
+  "name": "LD4all Classic",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+    "bgheader": "assets/bgheader.jpg",
+    "bgtop": "assets/bgtop.jpg"
+  },
+  "color_schemes": {
+    "Classic LD4all_3": {
+      "primary": "30495f",
+      "secondary": "e4ecee",
+      "tertiary": "a23276",
+      "quaternary": "0c1078",
+      "header_background": "030735",
+      "header_primary": "e4ecee",
+      "highlight": "f4c717",
+      "danger": "f89982",
+      "success": "9ddb9d",
+      "love": "ef869f"
+    },
+    "Classic LD4all": {
+      "primary": "222222",
+      "secondary": "e4ecee",
+      "tertiary": "a23276",
+      "quaternary": "0c1078",
+      "header_background": "e4ecee",
+      "header_primary": "333333",
+      "highlight": "f4c717",
+      "danger": "f89982",
+      "success": "9ddb9d",
+      "love": "ef869f"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
