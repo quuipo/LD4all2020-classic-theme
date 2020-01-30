@@ -1,5 +1,5 @@
 {
-  "name": "LD4all Classic",
+  "name": "LD4all Classic ",
   "component": false,
   "license_url": null,
   "about_url": null,
@@ -12,7 +12,7 @@
     "bgtop": "assets/bgtop.jpg"
   },
   "color_schemes": {
-    "Classic LD4all_3": {
+    "Classic LD4all Remote": {
       "primary": "30495f",
       "secondary": "e4ecee",
       "tertiary": "a23276",
@@ -22,20 +22,11 @@
       "highlight": "f4c717",
       "danger": "f89982",
       "success": "9ddb9d",
-      "love": "ef869f"
+      "love": "ef869f",
+       "primary-low": "c1c6d0"
+      
     },
-    "Classic LD4all": {
-      "primary": "222222",
-      "secondary": "e4ecee",
-      "tertiary": "a23276",
-      "quaternary": "0c1078",
-      "header_background": "e4ecee",
-      "header_primary": "333333",
-      "highlight": "f4c717",
-      "danger": "f89982",
-      "success": "9ddb9d",
-      "love": "ef869f"
-    }
+    
   },
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
 }
